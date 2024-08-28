@@ -1,0 +1,18 @@
+{
+  "iss": "https://accounts.google.com",
+  "azp": "1082114808936-9nlvivbgpt5mlj5rn3tfp60a1ddpbsbt.apps.googleusercontent.com",
+  "aud": "1082114808936-9nlvivbgpt5mlj5rn3tfp60a1ddpbsbt.apps.googleusercontent.com",
+  "sub": "105595993446636347928",
+  "email": "ijasmoopan46@gmail.com",
+  "email_verified": "true",
+  "at_hash": "OjMsSHMEol-Ds2ng1Nc0SQ",
+  "name": "Ijas Moopan",
+  "picture": "https://lh3.googleusercontent.com/a/ACg8ocL2LHgTXCAV3f3ymnmoixQMMMKoeyXoRYz0uduWMD8gPtglC9lnNQ=s96-c",
+  "given_name": "Ijas",
+  "family_name": "Moopan",
+  "iat": "1724865166",
+  "exp": "1724868766",
+  "alg": "RS256",
+  "kid": "a49391bf52b58c1d560255c2f2a04e59e22a7b65",
+  "typ": "JWT"
+}
